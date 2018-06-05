@@ -1,0 +1,12 @@
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Wizard101_Pet_Talent_calculator.vbprojAssemblyReference.cache
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Wizard101_Pet_Talent_calculator.vbproj.GenerateResource.cache
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Wizard101_Pet_Talent_calculator.vbproj.CoreCompileInputs.cache
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\nicwa\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
